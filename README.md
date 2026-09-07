@@ -176,3 +176,7 @@ Open Telegram and send /start.
 Open your Telegram bot and send:
 /start
         <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/f7e5ea3f-bfb8-4263-9785-ecaa718f18de" />
+
+
+
+
