@@ -1,0 +1,29 @@
+# Environment
+.env
+.env.*
+
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated files
+generated/*.pdf
+generated/*.pptx
+generated/charts/*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
